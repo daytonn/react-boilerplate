@@ -1,6 +1,5 @@
-![Codeship](https://codeship.com/projects/63086b30-4e90-0133-ffba-4eb3392aeb40/status?branch=master)
-Booth Performance Tracker Web Client
-====================================
+React Boilerplate
+=================
 
 Getting Started
 ---------------
